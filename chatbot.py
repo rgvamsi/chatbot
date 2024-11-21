@@ -6,7 +6,7 @@ from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
-OPEN_API_KEY="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"
+OPEN_API_KEY=""
 
 st.header("My ChatBot")
 
